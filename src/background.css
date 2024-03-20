@@ -1,0 +1,13 @@
+body {
+    background-color: #333333;
+    font-family:"Luckiest Guy", cursive;
+}
+
+
+.divider {
+    width: 100%;
+    height: 5px;
+    background-color: #0C7EAF;
+    margin-top: 0;
+    margin-bottom: 0;
+}
