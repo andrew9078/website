@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.839a7a22.chunk.css",
-    "main.js": "/static/js/main.7ebf5a3b.chunk.js",
-    "main.js.map": "/static/js/main.7ebf5a3b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.ce801184.js",
-    "runtime~main.js.map": "/static/js/runtime~main.ce801184.js.map",
-    "static/css/2.98036eff.chunk.css": "/static/css/2.98036eff.chunk.css",
-    "static/js/2.9e92b5b3.chunk.js": "/static/js/2.9e92b5b3.chunk.js",
-    "static/js/2.9e92b5b3.chunk.js.map": "/static/js/2.9e92b5b3.chunk.js.map",
-    "static/js/3.75735a85.chunk.js": "/static/js/3.75735a85.chunk.js",
-    "static/js/3.75735a85.chunk.js.map": "/static/js/3.75735a85.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.973078c575725460e540e224a80ed178.js": "/precache-manifest.973078c575725460e540e224a80ed178.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.98036eff.chunk.css.map": "/static/css/2.98036eff.chunk.css.map",
-    "static/css/main.839a7a22.chunk.css.map": "/static/css/main.839a7a22.chunk.css.map"
+    "main.css": "/andrew9078.github.io/static/css/main.839a7a22.chunk.css",
+    "main.js": "/andrew9078.github.io/static/js/main.7ebf5a3b.chunk.js",
+    "main.js.map": "/andrew9078.github.io/static/js/main.7ebf5a3b.chunk.js.map",
+    "runtime~main.js": "/andrew9078.github.io/static/js/runtime~main.72e2d079.js",
+    "runtime~main.js.map": "/andrew9078.github.io/static/js/runtime~main.72e2d079.js.map",
+    "static/css/2.98036eff.chunk.css": "/andrew9078.github.io/static/css/2.98036eff.chunk.css",
+    "static/js/2.9e92b5b3.chunk.js": "/andrew9078.github.io/static/js/2.9e92b5b3.chunk.js",
+    "static/js/2.9e92b5b3.chunk.js.map": "/andrew9078.github.io/static/js/2.9e92b5b3.chunk.js.map",
+    "static/js/3.75735a85.chunk.js": "/andrew9078.github.io/static/js/3.75735a85.chunk.js",
+    "static/js/3.75735a85.chunk.js.map": "/andrew9078.github.io/static/js/3.75735a85.chunk.js.map",
+    "index.html": "/andrew9078.github.io/index.html",
+    "precache-manifest.ba92fcc50ba7c708324233eef1a00079.js": "/andrew9078.github.io/precache-manifest.ba92fcc50ba7c708324233eef1a00079.js",
+    "service-worker.js": "/andrew9078.github.io/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/andrew9078.github.io/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.839a7a22.chunk.css.map": "/andrew9078.github.io/static/css/main.839a7a22.chunk.css.map"
   }
 }
