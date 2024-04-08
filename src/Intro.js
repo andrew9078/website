@@ -9,7 +9,6 @@ import {ReactTyped} from "react-typed"
 function Intro(){
     return (
         <div className="centered-container">
-                <img src={beach} alt="beach" className="center-box"></img>
                 <div className="overlay">
                     <ReactTyped
                       strings={["My name is Andrew Jung"]}
