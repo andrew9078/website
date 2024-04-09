@@ -1,4 +1,4 @@
-.centered-container{
+/*.centered-container{
     display:flex;
     justify-content: center;
     align-items: center;
@@ -23,22 +23,35 @@
 }
 
 .overlay{
-    position: absolute;
-    top: 23%;
-    font-size: 52px;
-    transform: translateY(-50%);
-    color: #AC3B61;
-    padding: 20px;
-    border-radius: 5px;
-    z-index: 1;
+    display: inline-block;
+    vertical-align: top;
 }
 
-.image{
-    background-color: #EEE2DC;
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto
+*/
+
+
+.First-text{
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
 }
 
+.content{
+    max-width: 900px;
 
+}
+
+.content h1{
+    font-size: 200px;
+    margin-bottom: 20px;
+}
+
+.content p{
+    font-size: 80px;
+}

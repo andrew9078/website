@@ -4,10 +4,7 @@ import Header from './Header';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS file
 import './background.css';
-import Intro  from './Intro';
-import TypeWriterText from './Intro';
-
-
+import Intro from './Intro';
 
 const AboutSection = () => {
   return (

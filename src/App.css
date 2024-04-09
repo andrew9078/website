@@ -1,3 +1,10 @@
+body {
+    background-color: #EEE2DC; /* Set base background color */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+
+
 .font-container{
     font-family:"Luckiest Guy", cursive;
     display: flex;
@@ -31,11 +38,6 @@
     color: #123c69;
 }
 
-body {
-    background-color: #EEE2DC; /* Set base background color */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-  }
 
 .custom-navbar{
     height:80px;
